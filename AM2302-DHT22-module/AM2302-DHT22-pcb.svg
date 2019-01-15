@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="1in"
+   height="0.60000002in"
+   viewBox="0 0 72.000017 43.200012"
+   id="svg5058"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DHT-22-pcb.svg">
+  <metadata
+     id="metadata5156">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5154" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="771"
+     id="namedview5152"
+     showgrid="false"
+     inkscape:zoom="3.4988076"
+     inkscape:cx="22.145564"
+     inkscape:cy="33.693055"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5058" />
+  <g
+     id="silkscreen">
+    <rect
+       ry="11.516549"
+       y="0.49688026"
+       x="0.49688071"
+       height="42.206245"
+       width="71.006248"
+       id="rect5704"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99376142;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="scale(0.99952699,1.0004732)"
+       sodipodi:linespacing="125%"
+       id="text5714"
+       y="12.691535"
+       x="33.872852"
+       style="font-style:normal;font-weight:normal;font-size:9.99724102px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:center;text-anchor:middle"
+         id="tspan5718"
+         y="12.691535"
+         x="33.872852"
+         sodipodi:role="line">AM2302</tspan><tspan
+         id="tspan5730"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:center;text-anchor:middle"
+         y="25.188086"
+         x="37.485138"
+         sodipodi:role="line">DHT22 </tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="copper0"
+     inkscape:label="copper1">
+    <g
+       id="copper1">
+      <circle
+         r="4.2096562"
+         cy="34.200008"
+         cx="19.800003"
+         id="path6932"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#f7bd13;stroke-width:2.38068962;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="display:inline;fill:none;fill-opacity:1;stroke:#f7bd13;stroke-width:2.38068962;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6934"
+         cx="34.200008"
+         cy="34.200008"
+         r="4.2096562" />
+      <circle
+         r="4.2096562"
+         cy="34.200008"
+         cx="48.599995"
+         id="circle7040"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#f7bd13;stroke-width:2.38068962;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
